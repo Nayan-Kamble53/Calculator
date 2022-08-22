@@ -87,6 +87,9 @@ button{
     background: red;
 }
 
+.calculator .dlt{
+    background: rgb(45, 45, 129);
+}
 .calculator .equal{
     grid-column: span 2;
     width: 11vw;
